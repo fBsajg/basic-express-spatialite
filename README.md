@@ -1,6 +1,6 @@
 ### Basic Backend with spatialite, express, typescript
 
-- running on port defined in .en
+- running on port defined in `.env` or 9003
 - serves geojson on different endpoints
 
 
